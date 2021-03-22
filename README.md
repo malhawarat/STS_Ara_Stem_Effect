@@ -9,7 +9,7 @@ Description: Several light and heavy stemmer as well as lemmatization algorithms
              data sets. The resulted data sets are considered for some machine laearning algorithms such as SVM,
              NB, SGD, and Ensemble learning.
              
-Data set: Data set is composed of original text as well as other 10 stemmers/lemmatizers as following:
+Data set: Data set is composed of original text as well as other 10 stemmed/lemmatized files as following:
 Original Text: Original Text of SemEval-2017
 AlKhalil Stems: Stems of Original Text using AlKhalil’s stemmer Boudchiche et al. (2017)
 ARLSTem Stems: Stems of Original Text using Arabic light stemmer Abainia et al. (2017)
