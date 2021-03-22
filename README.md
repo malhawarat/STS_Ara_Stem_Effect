@@ -24,4 +24,4 @@ Tashaphyne Stems: Stems of Original Text using Tashaphyne stemmer Zerrouki (2010
 
 These are available for both training and testing documents and found in file Data.zip. We used python to generate these files.
 
-Results are shown in figures 1-4
+Results are shown in four figures in folder "Results"
